@@ -5,7 +5,7 @@ def findMinAndMax(lst):
          return min(lst), max(lst)
 
 
-def main():     # test
+def main():         # test
     if findMinAndMax([]) != (None, None):
         print('测试失败!')
     elif findMinAndMax([7]) != (7, 7):
