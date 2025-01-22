@@ -1,7 +1,7 @@
 """
 环境：opencv-python、numpy
 运行脚本时，通过命令行传入两个图像路径，例如：
-python 0000_image_comparison.py image1.jpg image2.jpg
+python aaaa_image_comparison.py image1.jpg image2.jpg
 """
 
 
